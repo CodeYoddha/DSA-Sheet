@@ -8,11 +8,11 @@ I created this repository to keep my solutions organized, track my progress, and
 
 ## 🎯 Purpose
 
-* Practice DSA problems consistently
-* Improve logical and problem-solving skills
-* Understand different approaches to solving problems
-* Write clean and readable Java code
-* Keep a record of my learning journey
+* Practice DSA problems consistently.
+* Improve logical and problem-solving skills.
+* Understand different approaches to solving problems.
+* Write clean and readable Java code.
+* Keep a record of my learning journey.
 
 Each problem contains the **question, examples, and Java solution** so that it is easy to understand and revise later.
 
